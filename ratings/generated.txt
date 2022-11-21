@@ -1,0 +1,269 @@
+Asus ROG Phone                 (ASUS_Z01QD     ) 15082.0
+Asus ROG Phone                 (ZS600KL        ) 15082.0
+Google Pixel 2 XL              (taimen         ) 10784.0
+Google Pixel 3                 (blueline       ) 10717.0
+Google Pixel 3 XL              (crosshatch     ) 12713.0
+Google Pixel 4                 (flame          ) 18185.0
+Google Pixel 4 XL              (coral          ) 15994.0
+HTC U11                        (HTC 2PZC100    ) 10017.0
+HTC U11+                       (HTC 2Q4D200    ) 10234.0
+HTC U11+                       (HTC U11 plus   ) 10234.0
+HTC U11+                       (HTC_2Q4D100    ) 10234.0
+HTC U11                        (2PZC5          ) 10017.0
+HTC U11                        (601HT          ) 10017.0
+HTC U11                        (HTC 2PZC100    ) 10017.0
+HTC U11                        (HTC U-3w       ) 10017.0
+HTC U11                        (htc_ocndugl    ) 10017.0
+HTC U11                        (htc_ocnuhl     ) 10017.0
+HTC U11                        (htc_ocnuhljapan) 10017.0
+HTC U11                        (htc_ocnwhl     ) 10017.0
+HTC U11                        (HTC_U-3u       ) 10017.0
+HTC U11                        (HTV33          ) 10017.0
+HTC U12 +                      (HTC 2Q55300    ) 12706.0
+HTC U12+                       (HTC 2Q551      ) 12706.0
+HTC U12+                       (HTC 2Q551+     ) 12706.0
+HTC U12+                       (HTC 2Q55100    ) 12706.0
+HTC U12+                       (HTC 2Q552      ) 12706.0
+HTC U12+                       (htc_imedugl    ) 12706.0
+HTC U12+                       (htc_imeuhl     ) 12706.0
+HTC U12+                       (htc_imeuhljp   ) 12706.0
+Huawei Honor Magic 2           (TNY-AL00       ) 11424.0
+Huawei Honor Magic 2           (TNY-TL00       ) 11424.0
+LGE G8X ThinQ                  (901LG          ) 19595.0
+LGE G8X ThinQ                  (LM-G850        ) 19595.0
+LGE LG G7 One                  (LM-Q910        ) 10864.0
+LGE LG G7 ThinQ                (LG-G710        ) 14733.0
+LGE LG G7 ThinQ                (LM-G710        ) 14733.0
+LGE LG G7 ThinQ                (LM-G710N       ) 14733.0
+LGE LG G7 ThinQ                (LM-G710VM      ) 14733.0
+LGE LG V35 ThinQ               (LM-V350        ) 11038.0
+LGE LG V35 ThinQ               (LM-V350N       ) 11038.0
+LGE V30+                       (LGV35          ) 11038.0
+LGE V40 ThinQ                  (LM-V405        ) 11603.0
+LGE V40 ThinQ                  (LM-V409N       ) 11603.0
+Meizu 16                       (16             ) 16038.0
+Meizu 16s                      (16s            ) 19659.0
+Meizu 16s pro                  (meizu16sPro    ) 22335.0
+Motorola Moto Z (2) Force      (nash           ) 10671.0
+Motorola Moto Z(3)             (Moto Z (2)     ) 10671.0
+Motorola Moto Z(3)             (moto z3        ) 10671.0
+Motorola Moto Z(3)             (XT1929-15      ) 10671.0
+Nokia 8                        (TA-1004        ) 11313.0
+Nokia 8                        (TA-1012        ) 11313.0
+Nokia 8                        (TA-1052        ) 11313.0
+Nokia 8 Sirocco                (A1N            ) 11215.0
+Nokia 8 Sirocco                (A1N_sprout     ) 11215.0
+OnePlus 6                      (ONEPLUS A6000  ) 16273.0
+OnePlus 6                      (ONEPLUS A6003  ) 16273.0
+OnePlus 7                      (GM1905         ) 20835.0
+OnePlus 7 Pro                  (GM1915         ) 20462.0
+OnePlus 7 Pro                  (GM1917         ) 20462.0
+OnePlus 7 Pro                  (GM1925         ) 20462.0
+OnePlus 7T                     (HD1905         ) 23393.0
+OnePlus 7T                     (HD1907         ) 23393.0
+OnePlus 7T Pro                 (HD1913         ) 22812.0
+OnePlus5                       (ONEPLUS A5000  ) 10000.0
+OnePlus5T                      (ONEPLUS A5010  ) 11185.0
+Oppo Reno 10x Zoom             (CPH1919        ) 19633.0
+Oppo Reno 10x Zoom             (CPH1919        ) 19633.0
+Oppo Reno 10x Zoom             (CPH1919RU      ) 19633.0
+Oppo Reno A                    (CPH1983        ) 20226.0
+Oppo Reno Ace                  (PCLM10         ) 20226.0
+Razer Phone 2                  (aura           ) 10000.0
+Razer Phone 2                  (bolt           ) 10000.0
+Razer Phone 2                  (linus          ) 10000.0
+Razer Phone                    (cheryl         ) 10000.0
+Razer phone                    (cheryl_ckh     ) 10000.0
+Samsung Galaxy Fold            (SCV44          ) 20980.0
+Samsung Galaxy Fold            (SM-F9000       ) 20980.0
+Samsung Galaxy Fold            (SM-F900F       ) 20980.0
+Samsung Galaxy Fold            (SM-F900U       ) 20980.0
+Samsung Galaxy Fold            (SM-F900U1      ) 20980.0
+Samsung Galaxy Fold            (SM-F900W       ) 20980.0
+Samsung Galaxy S10             (SC-03L         ) 10000.0
+Samsung Galaxy S10             (SCV41          ) 10000.0
+Samsung Galaxy S10             (SM-G9730       ) 10000.0
+Samsung Galaxy S10             (SM-G9738       ) 10000.0
+Samsung Galaxy S10             (SM-G973C       ) 10000.0
+Samsung Galaxy S10             (SM-G973F       ) 10000.0
+Samsung Galaxy S10             (SM-G973N       ) 10000.0
+Samsung Galaxy S10             (SM-G973U       ) 10000.0
+Samsung Galaxy S10             (SM-G973U1      ) 10000.0
+Samsung Galaxy S10             (SM-G973W       ) 10000.0
+Samsung Galaxy S10 5G          (SM-G977B       ) 10000.0
+Samsung Galaxy S10 5G          (SM-G977N       ) 10000.0
+Samsung Galaxy S10 5G          (SM-G977P       ) 10000.0
+Samsung Galaxy S10 5G          (SM-G977T       ) 10000.0
+Samsung Galaxy S10 5G          (SM-G977U       ) 10000.0
+Samsung Galaxy S10 Lite        (SM-G770F       ) 10000.0
+Samsung Galaxy S10+            (SC-04L         ) 10000.0
+Samsung Galaxy S10+            (SCV42          ) 10000.0
+Samsung Galaxy S10+            (SM-G9750       ) 10000.0
+Samsung Galaxy S10+            (SM-G9758       ) 10000.0
+Samsung Galaxy S10+            (SM-G975F       ) 10000.0
+Samsung Galaxy S10+            (SM-G975N       ) 10000.0
+Samsung Galaxy S10+            (SM-G975U       ) 10000.0
+Samsung Galaxy S10+            (SM-G975U1      ) 10000.0
+Samsung Galaxy S10+            (SM-G975W       ) 10000.0
+Samsung Galaxy S10+ Olympic Games Edition (SC-05L         ) 10000.0
+Samsung Galaxy S10e            (SM-G9700       ) 10000.0
+Samsung Galaxy S10e            (SM-G9708       ) 10000.0
+Samsung Galaxy S10e            (SM-G970F       ) 10000.0
+Samsung Galaxy S10e            (SM-G970N       ) 10000.0
+Samsung Galaxy S10e            (SM-G970U       ) 10000.0
+Samsung Galaxy S10e            (SM-G970U1      ) 10000.0
+Samsung Galaxy S10e            (SM-G970W       ) 10000.0
+Samsung Galaxy S8 Active       (SM-G892A       ) 10000.0
+Samsung Galaxy S8 Active       (SM-G892U       ) 10000.0
+Samsung Galaxy S9              (SC-02K         ) 10000.0
+Samsung Galaxy S9              (SCV38          ) 10000.0
+Samsung Galaxy S9              (SM-G9600       ) 10000.0
+Samsung Galaxy S9              (SM-G9608       ) 10000.0
+Samsung Galaxy S9              (SM-G960F       ) 10000.0
+Samsung Galaxy S9              (SM-G960N       ) 10000.0
+Samsung Galaxy S9              (SM-G960U       ) 10000.0
+Samsung Galaxy S9              (SM-G960U1      ) 10000.0
+Samsung Galaxy S9              (SM-G960W       ) 10000.0
+Samsung Galaxy S9+             (SC-03K         ) 10000.0
+Samsung Galaxy S9+             (SCV39          ) 10000.0
+Samsung Galaxy S9+             (SM-G9650       ) 10000.0
+Samsung Galaxy S9+             (SM-G965F       ) 10000.0
+Samsung Galaxy S9+             (SM-G965N       ) 10000.0
+Samsung Galaxy S9+             (SM-G965U       ) 10000.0
+Samsung Galaxy S9+             (SM-G965U1      ) 10000.0
+Samsung Galaxy S9+             (SM-G965W       ) 10000.0
+Samsung Galaxy Tab S6          (SM-T860        ) 19844.0
+Samsung Galaxy Tab S6          (SM-T865        ) 19844.0
+Samsung Galaxy Tab S6          (SM-T867        ) 19844.0
+Samsung Galaxy Tab S6          (SM-T867R4      ) 19844.0
+Samsung Galaxy Tab S6          (SM-T867U       ) 19844.0
+Samsung Galaxy Tab S6          (SM-T867V       ) 19844.0
+Sharp AQUOS R2                 (706SH          ) 12393.0
+Sharp AQUOS zero               (801SH          ) 12184.0
+Sharp AQUOS zero               (SH-Z10         ) 12184.0
+Sharp AQUOS zero               (SH-Z10A        ) 12184.0
+Sony Xperia 1                  (802SO          ) 17719.0
+Sony Xperia 1                  (J8110          ) 17719.0
+Sony Xperia 1                  (J8170          ) 17719.0
+Sony Xperia 1                  (J9110          ) 17719.0
+Sony Xperia 1                  (J9180          ) 17719.0
+Sony Xperia 1                  (SO-03L         ) 17719.0
+Sony Xperia 1                  (SOV40          ) 17719.0
+Sony Xperia 5                  (901SO          ) 18382.0
+Sony Xperia 5                  (J8210          ) 18382.0
+Sony Xperia 5                  (J8270          ) 18382.0
+Sony Xperia 5                  (J9210          ) 18382.0
+Sony Xperia 5                  (SO-01M         ) 18382.0
+Sony Xperia 5                  (SOV41          ) 18382.0
+Sony Xperia XZ1                (701SO          ) 10687.0
+Sony Xperia XZ1                (G8341          ) 10687.0
+Sony Xperia XZ1                (G8342          ) 10687.0
+Sony Xperia XZ1                (G8343          ) 10687.0
+Sony Xperia XZ1                (SO-01K         ) 10687.0
+Sony Xperia XZ1                (SOV36          ) 10687.0
+Sony Xperia XZ1 Compact        (G8441          ) 11823.0
+Sony Xperia XZ1 Compact        (SO-02K         ) 11823.0
+Sony Xperia XZ2                (702SO          ) 10003.0
+Sony Xperia XZ2                (H8216          ) 10003.0
+Sony Xperia XZ2                (H8266          ) 10003.0
+Sony Xperia XZ2                (H8276          ) 10003.0
+Sony Xperia XZ2                (H8296          ) 10003.0
+Sony Xperia XZ2                (SO-03K         ) 10003.0
+Sony Xperia XZ2                (SOV37          ) 10003.0
+Sony Xperia XZ2 Compact        (H8314          ) 14836.0
+Sony Xperia XZ2 Compact        (H8324          ) 14836.0
+Sony Xperia XZ2 Compact        (SO-05K         ) 14836.0
+Sony Xperia XZ2 Premium        (H8116          ) 15810.0
+Sony Xperia XZ2 Premium        (H8166          ) 15810.0
+Sony Xperia XZ2 Premium        (SO-04K         ) 15810.0
+Sony Xperia XZ2 Premium        (SOV38          ) 15810.0
+Sony Xperia XZ3                (801SO          ) 12160.0
+Sony Xperia XZ3                (H8416          ) 12160.0
+Sony Xperia XZ3                (H9436          ) 12160.0
+Sony Xperia XZ3                (H9493          ) 12160.0
+Sony Xperia XZ3                (SO-01L         ) 12160.0
+Sony Xperia XZ3                (SOV39          ) 12160.0
+vivo NEX S                     (PD1805         ) 16266.0
+Xiaomi MI 8                    (dipper         ) 11491.0
+Xiaomi MI 8 Explorer Edition   (ursa           ) 10256.0
+Xiaomi MI 8 Pro                (equuleus       ) 11688.0
+Xiaomi MI 8 Pro                (MI 8 UD        ) 11688.0
+Xiaomi MI 8 UD                 (equuleus       ) 11688.0
+Xiaomi MI 8 UD                 (MI 8 Pro       ) 11688.0
+Xiaomi MI 8 UD                 (equuleus       ) 11688.0
+Xiaomi MI 9                    (cepheus        ) 19523.0
+Xiaomi Mi 9T Pro               (raphael        ) 18393.0
+Xiaomi POCO F1                 (POCOPHONE F1   ) 10000.0
+ZTE A2020N2 Pro                (ZTE A2020N3 Pro) 20946.0
+ZTE Axon 10 Pro                (ZTE A2020 Pro  ) 20946.0
+ZTE Axon 10 Pro                (ZTE A2020G Pro ) 20946.0
+ZTE Axon 10 Pro                (ZTE A2020N3 Pro) 20946.0
+ZTE Axon 10 Pro                (ZTE A2020RU Pro) 20946.0
+ZTE Axon 10 Pro                (ZTE A2020U Pro ) 20946.0
+ZTE Axon 10 Pro                (P855A03        ) 20946.0
+appletv                        (               ) 15000.0
+appletv6,2                     (               ) 20000.0
+apple ipad                     (               ) 20000.0
+apple ipad11,1                 (               ) 49000.0
+apple ipad11,2                 (               ) 49000.0
+apple ipad11,3                 (               ) 49000.0
+apple ipad11,4                 (               ) 49000.0
+apple ipad6,11                 (               ) 20000.0
+apple ipad6,12                 (               ) 20000.0
+apple ipad6,3                  (               ) 13000.0
+apple ipad6,4                  (               ) 13000.0
+apple ipad6,7                  (               ) 13000.0
+apple ipad6,8                  (               ) 13000.0
+apple ipad7,1                  (               ) 26000.0
+apple ipad7,11                 (               ) 13000.0
+apple ipad7,12                 (               ) 13000.0
+apple ipad7,2                  (               ) 26000.0
+apple ipad7,3                  (               ) 26000.0
+apple ipad7,4                  (               ) 26000.0
+apple ipad7,5                  (               ) 13000.0
+apple ipad7,6                  (               ) 13000.0
+apple ipad8,1                  (               ) 52000.0
+apple ipad8,10                 (               ) 52000.0
+apple ipad8,11                 (               ) 52000.0
+apple ipad8,12                 (               ) 52000.0
+apple ipad8,2                  (               ) 52000.0
+apple ipad8,3                  (               ) 52000.0
+apple ipad8,4                  (               ) 52000.0
+apple ipad8,5                  (               ) 52000.0
+apple ipad8,6                  (               ) 52000.0
+apple ipad8,7                  (               ) 52000.0
+apple ipad8,8                  (               ) 52000.0
+apple ipad8,9                  (               ) 52000.0
+apple iphone                   (               ) 50000.0
+apple iphone10,1               (               ) 13000.0
+apple iphone10,2               (               ) 13000.0
+apple iphone10,3               (               ) 13000.0
+apple iphone10,4               (               ) 13000.0
+apple iphone10,5               (               ) 13000.0
+apple iphone10,6               (               ) 13000.0
+apple iphone11,2               (               ) 49000.0
+apple iphone11,4               (               ) 49000.0
+apple iphone11,6               (               ) 49000.0
+apple iphone11,8               (               ) 50000.0
+apple iphone12,1               (               ) 60000.0
+apple iphone12,3               (               ) 60000.0
+apple iphone12,5               (               ) 60000.0
+oneplus a6010                  (               ) 16571.0
+xiaomi poco f1                 (               ) 10003.0
+xiaomi redmi k20 pro           (               ) 18048.0
+xiaomi redmi k20 pro premium edition (               ) 18048.0
+Adreno (TM) 540                (               ) 10003.0
+Adreno (TM) 620                (               ) 10003.0
+Adreno (TM) 630                (               ) 10003.0
+Adreno (TM) 640                (               ) 10003.0
+Adreno (TM) 650                (               ) 10003.0
+Adreno (TM) 675                (               ) 10003.0
+Adreno (TM) 680                (               ) 10003.0
+Adreno (TM) 685                (               ) 10003.0
+Mali-G76                       (               ) 10003.0
+Mali-G76 MP5                   (               ) 10003.0
+Mali-G76 MP10                  (               ) 10003.0
+Mali-G76 MP12                  (               ) 10003.0
+Mali-G76 MP16                  (               ) 10003.0
+Mali-G77                       (               ) 10003.0
+Mali-G77 MP11                  (               ) 10003.0
