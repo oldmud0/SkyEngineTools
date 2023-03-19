@@ -1,3 +1,5 @@
+#pragma pattern_limit 1048576
+
 struct Vec3Padded {
     float x;
     float y;
@@ -12,11 +14,10 @@ struct Vec3 {
 };
 
 struct Vec2Padded {
-    padding[4];
     // Actually half-precision floats
     u16 x;
     u16 y;
-    padding[8];
+    padding[12];
 };
 
 struct Vec2 {
@@ -42,12 +43,14 @@ struct MeshLod {
     // supposed to be an override for an unknown value
     float;
 
-    Vec3;
-    Vec3;
+    // Axis-aligned bounding box
+    Vec3 aabbA;
+    Vec3 aabbB;
 
     // for mesh version >= 0x1c
-        Vec3;
-        Vec3;
+        // Usually a copy of the AABB
+        Vec3 aabbA_2;
+        Vec3 aabbB_2;
     // for mesh version > 0x1c
         padding[0x20];
         padding[0x20];
@@ -75,7 +78,7 @@ struct MeshLod {
         Vec3Padded vtxBuffer[sharedVertices];
     }
     if (loadMeshNorms) {
-        float normals[sharedVertices - 1];
+        float normals[sharedVertices];
     }
     if (skipUvs == 0) { // or mesh version < 0x1d
         Vec2Padded uvBuffer[sharedVertices];
@@ -83,7 +86,6 @@ struct MeshLod {
     if (false) { // if animated
         BoneWeight animWeights[sharedVertices];
     }
-    padding[4];
     
     if (!isIdx32) {
         Face<u16> idxBuffer[totalVertices / 3];
@@ -165,4 +167,5 @@ struct Mesh {
 };
 
 MeshLod mesh @ 0x0;
+
 
