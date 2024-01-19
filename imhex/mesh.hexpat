@@ -1,6 +1,13 @@
 #pragma pattern_limit 1048576
+#pragma array_limit 1048576
 
-struct Vec3Padded {
+// Make sure this is set correctly - the value can be found in the compressed header.
+// Otherwise, this hexpat will not work properly.
+// 0.10.5: 0x1c
+// 0.17.5: 0x1f
+#define MESH_VERSION 0x1f
+
+struct Vertex {
     float x;
     float y;
     float z;
@@ -13,7 +20,7 @@ struct Vec3 {
     float z;
 };
 
-struct Vec2Padded {
+struct Uv {
     // Actually half-precision floats
     u16 x;
     u16 y;
@@ -47,42 +54,59 @@ struct MeshLod {
     Vec3 aabbA;
     Vec3 aabbB;
 
-    // for mesh version >= 0x1c
-        // Usually a copy of the AABB
+    // Usually a copy of the AABB
+    if (MESH_VERSION >= 0x1c) {
         Vec3 aabbA_2;
         Vec3 aabbB_2;
-    // for mesh version > 0x1c
+    }
+
+    if (MESH_VERSION > 0x1c) {
         padding[0x20];
         padding[0x20];
+    }
 
     u32 sharedVertices;
     u32 totalVertices;
 
-    // for mesh version >= 0x1e
+    if (MESH_VERSION >= 0x1e) {
         u32 isIdx32;
+    } else {
+        u32 isIdx32 = false;
+    }
 
     u32 numPoints;
     u32 prop11;
     u32 prop12;
     u32 prop13;
     u32 prop14;
-    // for mesh version >= 0x1d
+
+    if (MESH_VERSION >= 0x1d) {
         u8 loadMeshNorms; // if set, load mesh normals
         u8 loadInfo2;
         u8 loadInfo3;
         u32 skipMeshPos; // if zero, load mesh positions
         u32 skipUvs; // if zero, load UV coords
         u32 flag3;
+    } else {
+        u8 loadMeshNorms = false;
+        u8 loadInfo2 = false;
+        u8 loadInfo3 = false;
+        u32 skipMeshPos = false;
+        u32 skipUvs = false;
+        u32 flag3 = false;
+    }
+
     u8 unk[0x10];
-    if (skipMeshPos == 0) { // or mesh version < 0x1d
-        Vec3Padded vtxBuffer[sharedVertices];
+    if (MESH_VERSION < 0x1d || skipMeshPos == 0) {
+        Vertex vtxBuffer[sharedVertices];
     }
     if (loadMeshNorms) {
         float normals[sharedVertices];
     }
-    if (skipUvs == 0) { // or mesh version < 0x1d
-        Vec2Padded uvBuffer[sharedVertices];
+    if (MESH_VERSION < 0x1d || skipUvs == 0) { // or mesh version < 0x1d
+        Uv uvBuffer[sharedVertices];
     }
+
     if (false) { // if animated
         BoneWeight animWeights[sharedVertices];
     }
@@ -167,5 +191,3 @@ struct Mesh {
 };
 
 MeshLod mesh @ 0x0;
-
-
