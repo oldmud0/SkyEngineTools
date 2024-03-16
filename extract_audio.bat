@@ -4,7 +4,7 @@ setlocal
 :: Extracts an FMOD sample bank from Sky: Children of the Light.
 :: Dependencies:
 :: - FSB file extractor: http://aluigi.altervista.org/papers/fsbext.zip
-:: - FSB audio extractor: https://zenhax.com/viewtopic.php?f=17&t=1901
+:: - FSB audio extractor: https://web.archive.org/web/20230513205518/https://zenhax.com/viewtopic.php?f=17&t=1901
 :: - FFmpeg
 ::
 :: Usage: fmod_extract.bat filename
